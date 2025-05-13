@@ -114,6 +114,8 @@ Thumbs.db
 *.log
 *.sqlite
 *.db
+image/
+meta/
 
 # Local settings
 local_settings.py
